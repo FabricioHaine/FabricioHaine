@@ -30,13 +30,12 @@ Estudante de Tecnologia focado em **Desenvolvimento Web**, **Programação (Pyth
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabricioHaine&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioHaine&layout=compact&theme=dark"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FabricioHaine&show_icons=true&theme=dark" alt="Estatísticas FabricioHaine" />
+</p>
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-haine-1423923a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/fabricio-haine-1423923a5/))
