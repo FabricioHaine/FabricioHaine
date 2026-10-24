@@ -58,12 +58,6 @@ Hoje a base é **Java 21 + Spring Boot** no backend e **Angular 20** no frontend
 
 ## 🚀 Projetos em destaque
 
-| **[flowtask](https://github.com/FabricioHaine/flowtask) — o quadro que você arrasta com segurança** | **[documind](https://github.com/FabricioHaine/documind) — respostas com citações do próprio documento** |
-|---|---|
-| ![Quadro Kanban do flowtask](https://raw.githubusercontent.com/FabricioHaine/flowtask/main/docs/capturas/quadro.png) | ![Chat com citações do documind](https://raw.githubusercontent.com/FabricioHaine/documind/main/docs/screenshots/03-chat-citacoes.png) |
-| **[FinanSight](https://github.com/FabricioHaine/FinanSight) — a vida financeira traduzida em indicadores** | **[nexus-crm](https://github.com/FabricioHaine/nexus-crm) — do cliente ao negócio, no funil** |
-| ![Dashboard do FinanSight](https://raw.githubusercontent.com/FabricioHaine/FinanSight/main/docs/03-dashboard.png) | ![Funil comercial do nexus-crm](https://raw.githubusercontent.com/FabricioHaine/nexus-crm/main/docs/screenshots/funil.png) |
-
 | Projeto | O que é |
 |---|---|
 | **[documind](https://github.com/FabricioHaine/documind)** | Plataforma de inteligência de documentos com **RAG 100% local** — busca vetorial real com `pgvector` + índice HNSW, embeddings do `nomic-embed-text` via Ollama e **citações construídas pelo backend** a partir dos trechos efetivamente recuperados. Sem evidência suficiente, a resposta admite que não encontrou. |
