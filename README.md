@@ -1,8 +1,6 @@
 <div align="center">
   <img src="assets/banner.png" width="100%" alt="Fabricio Haine — Full Stack · Java 21 · Spring Boot · Angular 20" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1300&color=8293FF&center=true&vCenter=true&width=660&lines=Java+21+%C2%B7+Spring+Boot+3.5+%C2%B7+Angular+20;Regras+no+backend%2C+testes+de+verdade;PostgreSQL+%2B+Flyway+%C2%B7+design+system+autoral" alt="Java 21 · Spring Boot 3.5 · Angular 20" />
-
   [Sobre mim](#-sobre-mim) · [Stack e ferramentas](#-stack-e-ferramentas) · [Projetos](#-projetos-em-destaque) · [Em andamento](#-em-andamento) · [Estatísticas](#-estatísticas) · [Contato](#-vamos-nos-conectar)
 </div>
 
@@ -21,12 +19,9 @@ Também cuido do que se vê. Cada projeto tem um **design system autoral em tema
 
 Hoje a base é **Java 21 + Spring Boot** no backend e **Angular 20** no frontend, sobre **PostgreSQL** versionado por **Flyway**. Prefiro profundidade a amplitude: melhor um recurso sólido, testado e honesto do que dez telas de vitrine.
 
-<details>
-<summary>🇺🇸 <b>About me (English)</b></summary>
-
-Hi! I'm **Fabricio Haine**, a technology student building real full-stack products — Java 21 + Spring Boot on the backend, Angular 20 on the frontend, with PostgreSQL versioned by Flyway. My rule of thumb: **the truth lives in the backend** — permissions decided on the server, no mocked data, honest loading/empty/error states, and tests covering both rules and flows. I also care about the product feel: authorial dark design systems built on design tokens, Inter typography and a consistent visual voice across my repositories.
-
-</details>
+<div align="center">
+  <img src="assets/validacao.png" width="100%" alt="Como eu valido o que construo: mvn test 52 testes verdes · ng test 20 specs verdes · smoke-e2e 33/33 na API real · smoke-delete 9/9 cascata da exclusão" />
+</div>
 
 ## 🧰 Stack e ferramentas
 
@@ -63,6 +58,12 @@ Hi! I'm **Fabricio Haine**, a technology student building real full-stack produc
 
 ## 🚀 Projetos em destaque
 
+| **[flowtask](https://github.com/FabricioHaine/flowtask) — o quadro que você arrasta com segurança** | **[documind](https://github.com/FabricioHaine/documind) — respostas com citações do próprio documento** |
+|---|---|
+| ![Quadro Kanban do flowtask](https://raw.githubusercontent.com/FabricioHaine/flowtask/main/docs/capturas/quadro.png) | ![Chat com citações do documind](https://raw.githubusercontent.com/FabricioHaine/documind/main/docs/screenshots/03-chat-citacoes.png) |
+| **[FinanSight](https://github.com/FabricioHaine/FinanSight) — a vida financeira traduzida em indicadores** | **[nexus-crm](https://github.com/FabricioHaine/nexus-crm) — do cliente ao negócio, no funil** |
+| ![Dashboard do FinanSight](https://raw.githubusercontent.com/FabricioHaine/FinanSight/main/docs/03-dashboard.png) | ![Funil comercial do nexus-crm](https://raw.githubusercontent.com/FabricioHaine/nexus-crm/main/docs/screenshots/funil.png) |
+
 | Projeto | O que é |
 |---|---|
 | **[documind](https://github.com/FabricioHaine/documind)** | Plataforma de inteligência de documentos com **RAG 100% local** — busca vetorial real com `pgvector` + índice HNSW, embeddings do `nomic-embed-text` via Ollama e **citações construídas pelo backend** a partir dos trechos efetivamente recuperados. Sem evidência suficiente, a resposta admite que não encontrou. |
@@ -79,30 +80,9 @@ Hi! I'm **Fabricio Haine**, a technology student building real full-stack produc
 
 ## 📊 Estatísticas
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FabricioHaine&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=080E19&title_color=8293FF&icon_color=A5B4FC&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FabricioHaine&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=111C2E&icon_color=5B6BE0&text_color=1F2937" alt="Estatísticas FabricioHaine" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=FabricioHaine&layout=compact&langs_count=6&hide_border=true&bg_color=080E19&title_color=8293FF&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabricioHaine&layout=compact&langs_count=6&hide_border=true&bg_color=FFFFFF&title_color=111C2E&text_color=1F2937" alt="Linguagens mais usadas" />
-</picture>
-
-<br /><br />
-
-<img height="185" src="https://streak-stats.demolab.com?user=FabricioHaine&hide_border=true&background=080E19&stroke=26354B&ring=8293FF&fire=A5B4FC&currStreakNum=E8EDF7&currStreakLabel=8293FF&sideNums=C9D1D9&sideLabels=96A4BA&dates=96A4BA" alt="Sequência de contribuições" />
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabricioHaine/FabricioHaine/output/github-contribution-grid-snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/FabricioHaine/FabricioHaine/output/github-contribution-grid-snake.svg" alt="Snake das contribuições" />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FabricioHaine&show_icons=true&theme=dark" alt="Estatísticas FabricioHaine" />
+</p>
 
 ## 📫 Vamos nos conectar?
 
@@ -115,5 +95,3 @@ Hi! I'm **Fabricio Haine**, a technology student building real full-stack produc
   <img src="https://komarev.com/ghpvc/?username=FabricioHaine&style=for-the-badge&color=8293FF&label=VISITANTES" alt="Contador de visitas ao perfil" />
   <br /><sub>Do problema real ao produto que não finge funcionar.</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080E19,100:5B6BE0&height=110&section=footer" width="100%" alt="" />
